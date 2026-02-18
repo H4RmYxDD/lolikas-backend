@@ -16,7 +16,7 @@ Champion(name="Aphelios", role="marksman", lane="bot", difficulty=9, blue_essenc
 Champion(name="Ashe", role="marksman", lane="bot", difficulty=3, blue_essence=450, damage_type="physical", description="The Freljord's ice archer who slows with every auto-attack and initiates fights with a global stun arrow.", images=["Ashe_0.jpg", "Ashe_6.jpg"]),
 Champion(name="Aurelion Sol", role="mage", lane="mid", difficulty=8, blue_essence=4800, damage_type="magic", description="A cosmic dragon who orbits stars around himself, breathes star fire, and flies across the map.", images=["AurelionSol_0.jpg", "AurelionSol_4.jpg"]),
 Champion(name="Aurora", role="mage", lane="mid", difficulty=6, blue_essence=7800, damage_type="magic", description="A witch who travels between worlds, creating zones that phase enemies into another dimension.", images=["Aurora_0.jpg", "Aurora_1.jpg"]),
-Champion(name="Azir", role="mage", lane="mid", difficulty=9, blue_essence=4800, damage_type="magic", description="The emperor of Shurima who commands sand soldiers, repositions allies, and walls off entire areas.", images=["Azir_0.jpg", "Azir_5.jpg"]),
+Champion(name="Azir", role="mage", lane="mid", difficulty=9, blue_essence=4800, damage_type="magic", description="The emperor of Shurima who commands sand soldiers, repositions allies, and walls off entire areas.", images=["Azir_0.jpg", "Azir_5.jpg", "Azir_14.jpg"]),
 Champion(name="Bard", role="support", lane="support", difficulty=7, blue_essence=4800, damage_type="magic", description="A wandering cosmic support who collects chimes, creates magical journeys, and freezes everything with his ultimate.", images=["Bard_0.jpg", "Bard_6.jpg"]),
 Champion(name="Bel'Veth", role="fighter", lane="jungle", difficulty=7, blue_essence=3150, damage_type="physical", description="The Void empress who dashes repeatedly, gains infinite stacks, and transforms into a monstrous true form.", images=["BelVeth_0.jpg", "BelVeth_1.jpg"]),
 Champion(name="Blitzcrank", role="support", lane="support", difficulty=4, blue_essence=1350, damage_type="magic", description="A hook-based support who pulls enemies into his team, silences them, and knocks them airborne.", images=["Blitzcrank_0.jpg", "Blitzcrank_4.jpg"]),
@@ -38,8 +38,8 @@ Champion(name="Dr. Mundo", role="tank", lane="top", difficulty=4, blue_essence=4
 Champion(name="Draven", role="marksman", lane="bot", difficulty=8, blue_essence=4800, damage_type="physical", description="A showboating executioner who juggles spinning axes for massive damage and cashes in on kills.", images=["Draven_0.jpg", "Draven_6.jpg"]),
 
 # E Champions
-Champion(name="Ekko", role="assassin", lane="jungle", difficulty=7, blue_essence=3150, damage_type="magic", description="A time-bending assassin who slows zones, stuns with mobility, and rewinds to full health.", images=["Ekko_0.jpg", "Ekko_6.jpg"]),
-Champion(name="Elise", role="mage", lane="jungle", difficulty=7, blue_essence=4800, damage_type="magic", description="A spider queen who transforms between human and spider form, stunning and diving on enemies.", images=["Elise_0.jpg", "Elise_5.jpg"]),
+Champion(name="Ekko", role="assassin", lane="jungle", difficulty=7, blue_essence=3150, damage_type="magic", description="A time-bending assassin who slows zones, stuns with mobility, and rewinds to full health.", images=["Ekko_0.jpg", "Ekko_6.jpg", "Ekko_19.jpg"]),
+Champion(name="Elise", role="mage", lane="jungle", difficulty=7, blue_essence=4800, damage_type="magic", description="A spider queen who transforms between human and spider form, stunning and diving on enemies.", images=["Elise_0.jpg", "Elise_6.jpg"]),
 Champion(name="Evelynn", role="assassin", lane="jungle", difficulty=6, blue_essence=1350, damage_type="magic", description="A stealth assassin who excels at picking off isolated targets after level 6.", images=["Evelynn_0.jpg", "Evelynn_7.jpg"]),
 Champion(name="Ezreal", role="marksman", lane="bot", difficulty=7, blue_essence=1350, damage_type="physical", description="A skillshot-reliant AD carry who blinks to safety and snipes with a global-range ultimate.", images=["Ezreal_0.jpg", "Ezreal_5.jpg"]),
 
@@ -54,7 +54,7 @@ Champion(name="Gangplank", role="fighter", lane="top", difficulty=7, blue_essenc
 Champion(name="Garen", role="fighter", lane="top", difficulty=2, blue_essence=450, damage_type="physical", description="A straightforward juggernaut with silence, spin, and execute.", images=["Garen_0.jpg", "Garen_4.jpg"]),
 Champion(name="Gnar", role="fighter", lane="top", difficulty=7, blue_essence=4800, damage_type="physical", description="A yordle who transforms between a ranged kiter and a massive melee bruiser with crowd control.", images=["Gnar_0.jpg", "Gnar_6.jpg"]),
 Champion(name="Gragas", role="tank", lane="jungle", difficulty=6, blue_essence=3150, damage_type="magic", description="A drunken brawler who slams barrels, body slams enemies, and displaces teams with his ultimate.", images=["Gragas_0.jpg", "Gragas_7.jpg"]),
-Champion(name="Graves", role="marksman", lane="jungle", difficulty=5, blue_essence=4800, damage_type="physical", description="A shotgun-wielding outlaw who dashes, smokes enemies, and blasts with buckshot.", images=["Graves_0.jpg", "Graves_6.jpg"]),
+Champion(name="Graves", role="marksman", lane="jungle", difficulty=5, blue_essence=4800, damage_type="physical", description="A shotgun-wielding outlaw who dashes, smokes enemies, and blasts with buckshot.", images=["Graves_0.jpg", "Graves_1.jpg"]),
 Champion(name="Gwen", role="fighter", lane="top", difficulty=6, blue_essence=4800, damage_type="mixed", description="A hallowed seamstress who snips with scissors, becomes immune in her mist, and scales with AP.", images=["Gwen_0.jpg", "Gwen_1.jpg"]),
 
 # H Champions
@@ -85,7 +85,7 @@ Champion(name="Katarina", role="assassin", lane="mid", difficulty=9, blue_essenc
 Champion(name="Kayle", role="fighter", lane="top", difficulty=5, blue_essence=4800, damage_type="mixed", description="A righteous angel who evolves into ranged form, burns enemies with waves, and grants invulnerability.", images=["Kayle_0.jpg", "Kayle_5.jpg"]),
 Champion(name="Kayn", role="assassin", lane="jungle", difficulty=7, blue_essence=3150, damage_type="physical", description="A shadow reaper who transforms into a deadly assassin or tanky bruiser based on targets damaged.", images=["Kayn_0.jpg", "Kayn_5.jpg"]),
 Champion(name="Kennen", role="mage", lane="top", difficulty=6, blue_essence=4800, damage_type="magic", description="A heart of the tempest who marks enemies with lightning, dashes through them, and stuns multiple foes.", images=["Kennen_0.jpg", "Kennen_6.jpg"]),
-Champion(name="Kha'Zix", role="assassin", lane="jungle", difficulty=6, blue_essence=4800, damage_type="physical", description="A voidreaver who evolves abilities, leaps on isolated targets, and stealths to hunt prey.", images=["KhaZix_0.jpg", "KhaZix_5.jpg"]),
+Champion(name="Kha'Zix", role="assassin", lane="jungle", difficulty=6, blue_essence=4800, damage_type="physical", description="A voidreaver who evolves abilities, leaps on isolated targets, and stealths to hunt prey.", images=["KhaZix_0.jpg", "KhaZix_1.jpg", "KhaZix_3.jpg", "KhaZix_5.jpg"]),
 Champion(name="Kindred", role="marksman", lane="jungle", difficulty=7, blue_essence=4800, damage_type="physical", description="Eternal hunters who mark targets for hunts, dash and kite, and deny death with their ultimate.", images=["Kindred_0.jpg", "Kindred_5.jpg"]),
 Champion(name="Kled", role="fighter", lane="top", difficulty=6, blue_essence=4800, damage_type="physical", description="A cantankerous yordle who rides Skaarl, charges into battle, and remounts with courage.", images=["Kled_0.jpg", "Kled_4.jpg"]),
 Champion(name="Kog'Maw", role="marksman", lane="bot", difficulty=5, blue_essence=4800, damage_type="mixed", description="A void puppy who spits bio-arcane barrages, melts tanks with percent health damage, and explodes on death.", images=["KogMaw_0.jpg", "KogMaw_6.jpg"]),
@@ -166,7 +166,7 @@ Champion(name="Smolder", role="marksman", lane="bot", difficulty=5, blue_essence
 Champion(name="Sona", role="support", lane="support", difficulty=3, blue_essence=450, damage_type="magic", description="Maven of the strings who cycles auras, pokes, heals, and crescendos entire teams into a stun.", images=["Sona_0.jpg", "Sona_6.jpg"]),
 Champion(name="Soraka", role="support", lane="support", difficulty=3, blue_essence=450, damage_type="magic", description="A starchild who heals allies, silences enemies, and globally heals her entire team.", images=["Soraka_0.jpg", "Soraka_6.jpg"]),
 Champion(name="Swain", role="mage", lane="support", difficulty=6, blue_essence=3150, damage_type="magic", description="The Noxian grand general who pulls souls, drains health, and transforms into a demon.", images=["Swain_0.jpg", "Swain_5.jpg"]),
-Champion(name="Sylas", role="assassin", lane="jungle", difficulty=7, blue_essence=3150, damage_type="magic", description="The unshackled who chains enemies, heals from damage, and steals enemy ultimates.", images=["Sylas_0.jpg", "Sylas_4.jpg"]),
+Champion(name="Sylas", role="assassin", lane="jungle", difficulty=7, blue_essence=3150, damage_type="magic", description="The unshackled who chains enemies, heals from damage, and steals enemy ultimates.", images=["Sylas_0.jpg", "Sylas_4.jpg", "Sylas_53.jpg"]),
 Champion(name="Syndra", role="mage", lane="mid", difficulty=7, blue_essence=3150, damage_type="magic", description="A powerful control mage who throws dark spheres, stuns enemies, and nukes isolated targets with her ultimate.", images=["Syndra_0.jpg", "Syndra_4.jpg"]),
 
 # T Champions
@@ -184,7 +184,7 @@ Champion(name="Twitch", role="marksman", lane="bot", difficulty=6, blue_essence=
 
 # U Champions
 Champion(name="Udyr", role="fighter", lane="jungle", difficulty=5, blue_essence=1350, damage_type="mixed", description="A spirit walker who channels primal stances, shields himself, and runs down enemies.", images=["Udyr_0.jpg", "Udyr_3.jpg"]),
-Champion(name="Urgot", role="fighter", lane="top", difficulty=6, blue_essence=3150, damage_type="physical", description="A dreadnought who shotgun knees, dashes to slow, and executes enemies by pulling them into a grinder.", images=["Urgot_0.jpg", "Urgot_4.jpg"]),
+Champion(name="Urgot", role="fighter", lane="top", difficulty=6, blue_essence=3150, damage_type="physical", description="A dreadnought who shotgun knees, dashes to slow, and executes enemies by pulling them into a grinder.", images=["Urgot_0.jpg", "Urgot_9.jpg"]),
 
 # V Champions
 Champion(name="Varus", role="marksman", lane="bot", difficulty=5, blue_essence=4800, damage_type="mixed", description="An arrow of retribution who pokes with arrows, chains enemies, and detonates blight stacks.", images=["Varus_0.jpg", "Varus_6.jpg"]),
@@ -200,7 +200,7 @@ Champion(name="Volibear", role="fighter", lane="top", difficulty=4, blue_essence
 
 # W Champions
 Champion(name="Warwick", role="fighter", lane="jungle", difficulty=3, blue_essence=450, damage_type="physical", description="The uncaged wrath who tracks low-health enemies, heals rapidly, and suppresses targets with his ultimate.", images=["Warwick_0.jpg", "Warwick_5.jpg"]),
-Champion(name="Wukong", role="fighter", lane="jungle", difficulty=5, blue_essence=3150, damage_type="physical", description="The monkey king who clones himself, spins his staff, and knocks up enemies repeatedly.", images=["Wukong_0.jpg", "Wukong_5.jpg"]),
+Champion(name="Wukong", role="fighter", lane="jungle", difficulty=5, blue_essence=3150, damage_type="physical", description="The monkey king who clones himself, spins his staff, and knocks up enemies repeatedly.", images=["Wukong_0.jpg", "Wukong_0.jpg"]),
 
 # X Champions
 Champion(name="Xayah", role="marksman", lane="bot", difficulty=6, blue_essence=4800, damage_type="physical", description="The rebel who throws feathers, recalls them for damage, and becomes untargetable with her ultimate.", images=["Xayah_0.jpg", "Xayah_5.jpg"]),
